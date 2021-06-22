@@ -300,9 +300,9 @@
 -r:"/Applications/Unity/Hub/Editor/2021.1.12f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Numerics.Vectors.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.12f1/Unity.app/Contents/NetStandard/Extensions/2.0.0/System.Runtime.InteropServices.WindowsRuntime.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.12f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll"
--r:"/Users/vegatechcomputerservices/Documents/Unity_L8/2021 Game Jam HW/Void Game/Library/PackageCache/com.unity.cinemachine@2.7.3/Runtime/ThirdParty/clipper_library.dll"
--r:"/Users/vegatechcomputerservices/Documents/Unity_L8/2021 Game Jam HW/Void Game/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
--r:"/Users/vegatechcomputerservices/Documents/Unity_L8/2021 Game Jam HW/Void Game/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"/Users/vegatechcomputerservices/Documents/Unity_L8/2021 Game Jam HW/Game Jam Source/Void Game/Library/PackageCache/com.unity.cinemachine@2.7.3/Runtime/ThirdParty/clipper_library.dll"
+-r:"/Users/vegatechcomputerservices/Documents/Unity_L8/2021 Game Jam HW/Game Jam Source/Void Game/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0/Runtime/Newtonsoft.Json.dll"
+-r:"/Users/vegatechcomputerservices/Documents/Unity_L8/2021 Game Jam HW/Game Jam Source/Void Game/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/com.unity.cinemachine.editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.2D.Sprite.Editor.ref.dll"
@@ -336,6 +336,12 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/VSSettingsProvider.ref.dll"
 "Assets/Scripts/ParallaxBackground.cs"
+"Assets/Simple Health Bar/Scripts/SimpleHealthBar.cs"
+"Assets/Simple Health Bar/_Asteroids Example/Scripts/AsteroidController.cs"
+"Assets/Simple Health Bar/_Asteroids Example/Scripts/GameManager.cs"
+"Assets/Simple Health Bar/_Asteroids Example/Scripts/HealthPickupController.cs"
+"Assets/Simple Health Bar/_Asteroids Example/Scripts/PlayerController.cs"
+"Assets/Simple Health Bar/_Asteroids Example/Scripts/PlayerHealth.cs"
 -langversion:8.0
 
 /deterministic

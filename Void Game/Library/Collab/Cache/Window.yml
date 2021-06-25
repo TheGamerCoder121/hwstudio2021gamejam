@@ -14,15 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/MainScene.meta
     - Assets/Scenes/MainScene.unity
-    - Assets/Scenes/MainScene/LightingData.asset
-    - Assets/Scenes/MainScene/LightingData.asset.meta
-    - Assets/Scripts/PlayerMovement.cs
-    - Assets/Scripts/PlayerMovement.cs.meta
-    - Assets/VFX.meta
+    - Assets/Scripts/GunScript.cs
     - 
-    m_Values: 0000000000000000
+    m_Values: 000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

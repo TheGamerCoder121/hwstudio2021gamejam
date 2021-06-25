@@ -105,13 +105,14 @@
 -define:ENABLE_TERRAIN
 -define:ENABLE_TILEMAP
 -define:ENABLE_TIMELINE
--define:ENABLE_INPUT_SYSTEM
+-define:ENABLE_LEGACY_INPUT_MANAGER
 -define:CINEMACHINE_TIMELINE
 -define:CINEMACHINE_HDRP
 -define:CINEMACHINE_HDRP_7_3_1
 -define:CINEMACHINE_PHYSICS_2D
 -define:CINEMACHINE_PHYSICS
 -define:CINEMACHINE_UGUI
+-define:CINEMACHINE_LWRP_7_3_1
 -define:CINEMACHINE_TIMELINE_1_5_0
 -define:CINEMACHINE_UNITY_ANIMATION
 -define:CINEMACHINE_UNITY_IMGUI
@@ -322,11 +323,14 @@
 -r:"/Users/vegatechcomputerservices/Documents/Unity_L8/2021 Game Jam HW/Game Jam Source/Void Game/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll"
 -r:"/Users/vegatechcomputerservices/Documents/Unity_L8/2021 Game Jam HW/Game Jam Source/Void Game/Library/PackageCache/com.unity.visualscripting@1.6.1/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll"
 -r:"/Users/vegatechcomputerservices/Documents/Unity_L8/2021 Game Jam HW/Game Jam Source/Void Game/Library/PackageCache/com.unity.visualscripting@1.6.1/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll"
+-r:"Assets/AstarPathfindingProject/Plugins/DotNetZip/Pathfinding.Ionic.Zip.Reduced.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Cinemachine.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.Core.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.Core.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.HighDefinition.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.HighDefinition.Runtime.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.Universal.Editor.ref.dll"
+-r:"Library/Bee/artifacts/200b0aE.dag/Unity.RenderPipelines.Universal.Runtime.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.Timeline.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.TestRunner.ref.dll"
